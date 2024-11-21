@@ -1,0 +1,52 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: Figtree;
+    margin: 0px auto;
+}
+
+h2:hover {
+    color: hsl(47, 88%, 63%);
+}
+
+h4 {
+    background-color: hsl(47, 88%, 63%);
+    border: 8px solid hsl(47, 88%, 63%);
+    border-radius: 8px;
+    display: inline-block;
+}
+
+h5 {
+    display: inline-block;
+    color: hsl(0, 0%, 7%);
+}
+
+p {
+    color: hsl(0, 0%, 42%);
+}
+
+.main-style {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 336px;
+    min-width: 336px;
+    margin: 200px auto;
+    padding: 20px;
+    border: black solid 1px;
+    border-radius: 20px;
+    box-shadow: 10px 5px;
+}
+
+.main {
+    width: 336px;
+}
+
+.geo {
+    border-radius: 20px;
+}
+
+.avatar {
+    width: 40px;
+}
+
+.attribution {
+    margin: 50px;
+}
